@@ -1,4 +1,8 @@
-### Hi there  👋  I am Ashraf... <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" height="100" >
+</p>
+
+### Hi 👋 I am Ashraf... <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 🔭  I’m a self taught game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> ⚡ Fun fact: I love playing guitar & I have a cat :) <img src="https://media.giphy.com/media/r62TBdD8aNIwU/giphy.gif" width="50"> <br/>
 
 ### 📕 Some of my projects (ordered by date)
@@ -14,21 +18,6 @@
 <br/>
 
 [![](https://github-readme-stats.vercel.app/api?username=ashrafuz&count_private=true&theme=dracula&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-
-### Languages and Tools
-
-<img align="left" alt="cSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
-<img align="left" alt="cSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-
-<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-
-<br/>
 
 ### Connect with me
 [<img align="left" alt="ashrafuz.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
