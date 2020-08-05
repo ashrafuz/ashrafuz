@@ -43,7 +43,7 @@ Languages and Tools
 
 [![](https://github-readme-stats.vercel.app/api?username=ashrafuz&count_private=true&theme=dracula&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://codeSTACKr.com
+[website]: https://ashrafuz.github.io/
 [twitter]: https://twitter.com/game_auz
 [linkedin]: https://linkedin.com/in/auz18/
 
