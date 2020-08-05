@@ -4,8 +4,7 @@
 - 🌱  I’m currently learning various elements that enhances the visual quality of a game like shaders, effects etc.
 - 🥅  My goal for 2020: Make 2 casual games, Contribute to at least 1 open source project
 - ⚡  Fun fact: I love playing guitar & I have a cat :)
-
-<br /> <br />
+<br />
 
 ### 📕 Some of my projects (ordered by date)
 - [Eller's Algorithm (see demo) ](https://twitter.com/game_auz/status/1282247630815236100)
