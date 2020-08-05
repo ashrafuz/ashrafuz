@@ -17,16 +17,15 @@
 - [LAN Chat app with Unity with full documentation](https://github.com/ashrafuz/unity_lanchat)
 - [Pathfinding visualization A* vs Dijkstra (see demo)](https://github.com/ashrafuz/Pathfinding)
 
-<br/><br/>
-[![](https://github-readme-stats.vercel.app/api?username=ashrafuz&count_private=true&theme=dracula&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-<br /> <br />
+[![](https://github-readme-stats.vercel.app/api?username=ashrafuz&count_private=true&theme=dracula&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
 ### Languages and Tools
 
 <img align="left" alt="cSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
-
 <img align="left" alt="cSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
@@ -35,15 +34,14 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 
-<br/><br/>
+<br/>
 
 ### Connect with me
-
 [<img align="left" alt="ashrafuz.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ashrafuz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ashrafuz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br/><br/>
+<br/>
 
 [website]: https://ashrafuz.github.io/
 [twitter]: https://twitter.com/game_auz
