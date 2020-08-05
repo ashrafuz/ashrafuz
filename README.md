@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" height="150" >
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500" height="200" >
 </p>
 
-### Hi 👋 I am Ashraf... <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-🔭  I’m a self taught game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> ⚡ Fun fact: I love playing guitar & I have a cat :) <img src="https://media.giphy.com/media/r62TBdD8aNIwU/giphy.gif" width="50"> <br/>
+🔭 I’m a self taught game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> ⚡Fun fact: I love playing guitar & I have a cat :) <img src="https://media.giphy.com/media/r62TBdD8aNIwU/giphy.gif" width="50"> <br/>
 
-### 📕 Some of my projects (ordered by date)
+#### 📕 Some of my projects (ordered by date)
 - [Eller's Algorithm (see demo) ](https://twitter.com/game_auz/status/1282247630815236100)
 - [Random Maze Generation (see demo) ](https://twitter.com/game_auz/status/1251423579553464322)
 - [Zenject Study, with a breakout type game prototype](https://github.com/ashrafuz/breakout)
