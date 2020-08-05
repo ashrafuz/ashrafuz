@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500" height="200" >
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="500" height="180" >
 </p>
 
 🔭 I’m a self taught game developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> ⚡Fun fact: I love playing guitar & I have a cat :) <img src="https://media.giphy.com/media/r62TBdD8aNIwU/giphy.gif" width="50"> <br/>
