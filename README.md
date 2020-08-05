@@ -1,6 +1,6 @@
-### Hi there  👋  I am Ashraf...
+### Hi there  👋  I am Ashraf... <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭  I’m currently working as a game developer.
+- 🔭  I’m a self taught game developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱  I’m currently learning various elements that enhances the visual quality of a game like shaders, effects etc.
 - 🥅  My goal for 2020: Make 2 casual games, Contribute to at least 1 open source project
 - ⚡  Fun fact: I love playing guitar & I have a cat :)
