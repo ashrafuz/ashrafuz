@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" height="100" >
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" height="150" >
 </p>
 
 ### Hi 👋 I am Ashraf... <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
