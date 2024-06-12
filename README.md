@@ -16,8 +16,6 @@
 
 <br/>
 
-[![](https://github-readme-stats.vercel.app/api?username=ashrafuz&count_private=true&theme=dracula&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me
 [<img align="left" alt="ashrafuz.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ashrafuz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
